@@ -1,25 +1,25 @@
 export const services = [
   {
     id: 1,
-    title: "Cinematic Review Biệt Thự",
-    desc: "Thời lượng 2-3 phút (khung ngang 16:9). Xử lý mượt mà source quay mặt đất + Flycam, chèn nhạc bản quyền, sound effect chuyển động và lọc tạp âm chuyên nghiệp.",
-    price: "Từ 1,500,000 đ / video",
+    title: "Cinematic Villa Tour",
+    desc: "2-3 minutes runtime (16:9 widescreen). Seamless integration of ground and drone footage, licensed premium soundtracks, custom sound design, and high-end color grading.",
+    price: "From $150 / video",
     videoSrc: "https://assets.mixkit.co/videos/31423/31423-720.mp4",
-    badge: "Phổ biến"
+    badge: "Popular"
   },
   {
     id: 2,
-    title: "Shorts / Reels / TikTok Đi Tour",
-    desc: "Thời lượng dưới 60 giây (khung dọc 9:16). Tạo hook giữ chân người xem 3 giây đầu, chèn subtitle thông tin giá bán độc đáo, tối ưu nhịp cắt theo nhạc trending bùng nổ.",
-    price: "Từ 600,000 đ / video",
+    title: "Minimalist Apartment Reels",
+    desc: "Under 60 seconds (9:16 vertical). Highly engaging 3-second hooks, elegant typography subtitles, and rapid rhythm cuts tailored for trending social media audio.",
+    price: "From $60 / video",
     videoSrc: "https://assets.mixkit.co/videos/31424/31424-720.mp4",
-    badge: "Hot"
+    badge: "Trending"
   },
   {
     id: 3,
-    title: "Toàn Cảnh Dự Án & Quy Hoạch",
-    desc: "Chuyên trị sourcemap diện tích lớn. Tập trung vẽ ranh giới đồ họa, chèn bảng pop-up tên đường, khoảng cách kết nối vùng vô cùng trực quan cho nhà đầu tư xa.",
-    price: "Từ 2,500,000 đ / video",
+    title: "Aerial Project & Masterplan Showcase",
+    desc: "Designed for large-scale development sites. Features advanced 3D tracking overlays, animated boundaries, property line mapping, and neighborhood connectivity pop-ups.",
+    price: "From $250 / video",
     videoSrc: "https://assets.mixkit.co/videos/31426/31426-720.mp4",
     badge: ""
   }
