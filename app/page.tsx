@@ -9,7 +9,7 @@ export default function Home() {
       <header className="fixed top-0 left-0 w-full bg-white/95 backdrop-blur-md shadow-sm z-50 transition-all">
         <div className="max-w-7xl mx-auto px-6 h-20 flex justify-between items-center">
           <a href="#" className="text-2xl font-extrabold text-[#c29b38] tracking-tight">
-            RE<span className="text-slate-800">Media</span>
+            ducNgu<span className="text-slate-800">Media</span>
           </a>
           <nav className="hidden md:flex items-center gap-8 font-semibold text-slate-700">
             <a href="#home" className="hover:text-[#c29b38] transition">Trang chủ</a>
