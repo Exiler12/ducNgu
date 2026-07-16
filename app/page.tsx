@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import services from './data/services.json';
+import services from './data/services.js';
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#FBF9F6] text-[#1F1E1B] font-sans selection:bg-[#8C7853] selection:text-white">
